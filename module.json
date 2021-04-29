@@ -1,0 +1,17 @@
+{
+  "name": "initiative-order-text-box",
+  "type": "module",
+  "title": "Initiative Order Text Box",
+  "author": "Collin",
+  "version": "1",
+  "description": "Allow users to enter their own initiative via a textbox",
+  "minimumCoreVersion": "0.7.4",
+  "compatibleCoreVersion": "0.7.9",
+  "esmodules": [
+    "./initiative-order-text-box.js"
+  ],
+  "styles": [
+    "./style.css"
+  ]
+  
+}
